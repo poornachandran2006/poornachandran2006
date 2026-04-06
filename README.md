@@ -139,9 +139,9 @@ Backend API      → Metrics Endpoints · Real-time Data Access · Scalable Inte
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-poornachandran2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poornachandran2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poornachandran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornachandran2006)
-[![Email](https://img.shields.io/badge/Gmail-poorna2006poorna%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorna2006poorna@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poornachandran2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornachandran2006)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorna2006poorna@gmail.com)
 
 ---
 
