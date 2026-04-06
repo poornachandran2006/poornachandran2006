@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Poornachandran</h1>
 
-<!--
-**poornachandran2006/poornachandran2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Engineering Student | AI & Full Stack Developer | Building Production-Grade Systems
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Focused on designing scalable applications, RAG systems, and real-world problem-solving products.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+progress;Full+Stack+Developer;Building+RAG+Systems;Hackathon+Builder&center=true&width=500&height=50">
+</p>
