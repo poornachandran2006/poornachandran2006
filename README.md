@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=90&lines=POORNACHANDRAN_A;AI+%26+Backend+Engineer;RAG+Systems+Architect;Full+Stack+Developer)](https://github.com/poornachandran2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=90&lines=POORNACHANDRAN A;AI+%26+Backend+Engineer;RAG+Systems+Architect;Full+Stack+Developer)](https://github.com/poornachandran2006)
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20Full%20Stack%20Developer-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117"/>
